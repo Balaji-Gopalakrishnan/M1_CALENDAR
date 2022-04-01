@@ -8,4 +8,5 @@
 1) Windows 7 or higher versions , Linux - Ubuntu v18.04.4 or higher version.
 2) Visual Studio / code::Blocks software / Dev-C++.
 
+In this we used the cocept of file handling,pointer,functions and multi file programming.
 
