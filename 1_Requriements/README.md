@@ -24,7 +24,7 @@ In this we used the concept of file handling,pointer,functions and multi file pr
      
       i) Fetch a character from the keyboard ( press p to go to particular year and month).
       
-      ii)Press ECS key to EXIT.
+      ii)Press Esc key to EXIT.
       
 
 
