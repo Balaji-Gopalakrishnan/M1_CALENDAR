@@ -16,12 +16,3 @@
  
 
 
-
-# Learning Resources
-1.Tutorials point
-
-2.future skills
-
-3.youtube
-
-4.github
