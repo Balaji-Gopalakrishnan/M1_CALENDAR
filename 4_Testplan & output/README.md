@@ -16,7 +16,7 @@
 
 ## EXPECTED OUTCOMES: -
 
-|Sl.NO| EXPECTED RESULT|
+|Sl.No| EXPECTED RESULT|
 |:----|:---------------|
 |1|	User enter the year and month number sucessfully.|
 |2| Entered data successfully.|
